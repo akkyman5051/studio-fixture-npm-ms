@@ -1,0 +1,10 @@
+{
+  "name": "studio-fixture-npm-ms",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "main": "main.js",
+  "dependencies": {
+    "ms": "2.1.3"
+  }
+}
